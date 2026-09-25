@@ -14,6 +14,7 @@ Personal Task Manager
 Laravel Project
 
 ---Development Assistance---
+
 Developed with assistance from **ChatGPT (OpenAI)** for
 coding guidance, debugging, UI/CSS suggestions, and project documentation.
 
