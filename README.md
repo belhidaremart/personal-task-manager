@@ -74,3 +74,43 @@ personal-task-manager/
 │   └── web.php
 │
 └── README.md
+
+
+Setup Instructions
+
+1. *Start XAMPP*
+   Open the XAMPP Control Panel and start the *Apache* and *MySQL* modules.
+
+2. *Create the database*
+   Go to http://localhost/phpmyadmin and create a new database matching the DB_DATABASE value you'll set in .env (e.g. task_manager).
+
+3. *Install PHP dependencies*
+   
+   composer install
+   
+
+4. *Create the environment file*
+   
+   cp .env.example .env
+   
+
+5. *Generate the application key*
+   
+   php artisan key:generate
+   
+
+6. *Run fresh database migrations*
+   
+   php artisan migrate:fresh
+   
+
+7. *Start the development server*
+   
+   php artisan serve
+   
+
+8. *Open the app in your browser*
+   
+   http://127.0.0.1:8000
+   
+ScreenShot
