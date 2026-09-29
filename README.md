@@ -111,7 +111,7 @@ Setup Instructions
 
 8. *Open the app in your browser*
    
-   http://127.0.0.1:8000
+  (http://127.0.0.1:8000/)
    
 ScreenShot
 
