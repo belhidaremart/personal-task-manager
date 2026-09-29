@@ -114,3 +114,17 @@ Setup Instructions
    http://127.0.0.1:8000
    
 ScreenShot
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1915" height="857" alt="image" src="https://github.com/user-attachments/assets/112d01bd-915e-4a74-92f2-f5bb3971efb4" />
+
